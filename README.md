@@ -43,7 +43,6 @@ It helps students understand object-oriented programming and database interactio
 | Database | MySQL |
 | Database Connector | MySQL Connector/J (JDBC Driver) |
 | IDE | VS Code |
-| GUI Framework | Java Swing |
 | Build Tool | Manual Compilation (`javac`, `java`) |
 
 ---
